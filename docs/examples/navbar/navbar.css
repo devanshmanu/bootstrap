@@ -5,4 +5,6 @@ body {
 
 .navbar {
   margin-bottom: 20px;
+  text-align: center;
+  display: inline-block;
 }
